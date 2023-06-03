@@ -1,0 +1,59 @@
+MetaVersion: 1
+MarketplaceDetails {
+  Id: "6f86678c582e4f55b1445001d08ef725"
+  OwnerAccountId: "7e3a5735db0d4b2586c0032c92122f87"
+  OwnerName: "Empar17"
+  Version: "1.0.0"
+}
+AssetIdsOriginalToNew {
+  key: 321472518781775172
+  value: 1548381946828219694
+}
+AssetIdsOriginalToNew {
+  key: 1031736639489708352
+  value: 710163177234388328
+}
+AssetIdsOriginalToNew {
+  key: 1706454690100559316
+  value: 9034105454048103089
+}
+AssetIdsOriginalToNew {
+  key: 1801466282414979175
+  value: 4554493921835758051
+}
+AssetIdsOriginalToNew {
+  key: 3203561190779028988
+  value: 6162690947397738089
+}
+AssetIdsOriginalToNew {
+  key: 5206915705004778699
+  value: 18312678380263645815
+}
+AssetIdsOriginalToNew {
+  key: 5596333236266307759
+  value: 8647287461745537526
+}
+AssetIdsOriginalToNew {
+  key: 7043245979798759771
+  value: 3488390092853432662
+}
+AssetIdsOriginalToNew {
+  key: 7898162268710851874
+  value: 1341322768562775985
+}
+AssetIdsOriginalToNew {
+  key: 10317053209187943751
+  value: 17753142944936970789
+}
+AssetIdsOriginalToNew {
+  key: 13008941570303407970
+  value: 4359986240102650403
+}
+AssetIdsOriginalToNew {
+  key: 16006883248488076433
+  value: 7129482652820508737
+}
+AssetIdsOriginalToNew {
+  key: 16579245518785677006
+  value: 1262498488569675803
+}

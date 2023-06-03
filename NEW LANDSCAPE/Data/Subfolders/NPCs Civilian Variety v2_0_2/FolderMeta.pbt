@@ -1,0 +1,91 @@
+MetaVersion: 1
+MarketplaceDetails {
+  Id: "2eb8aa6953334d9f8298478c6271b28f"
+  OwnerAccountId: "024053e24e87433282d2a8fed25b13ef"
+  OwnerName: "UltimateQball"
+  Version: "1.0.0"
+}
+AssetIdsOriginalToNew {
+  key: 277627013200237757
+  value: 3363699439266925802
+}
+AssetIdsOriginalToNew {
+  key: 481348837589410482
+  value: 9191811791523665413
+}
+AssetIdsOriginalToNew {
+  key: 765616591268898328
+  value: 13215548362609301110
+}
+AssetIdsOriginalToNew {
+  key: 881184875382576294
+  value: 12027845004210024710
+}
+AssetIdsOriginalToNew {
+  key: 909794778739221942
+  value: 2041391250941114594
+}
+AssetIdsOriginalToNew {
+  key: 1718637017640586940
+  value: 5815109118450110625
+}
+AssetIdsOriginalToNew {
+  key: 2552644812292998648
+  value: 12051277795965865044
+}
+AssetIdsOriginalToNew {
+  key: 3481375715024514148
+  value: 6917439280724259146
+}
+AssetIdsOriginalToNew {
+  key: 4836095376046046019
+  value: 14254677268724151194
+}
+AssetIdsOriginalToNew {
+  key: 5112127877611895128
+  value: 3236379884697672708
+}
+AssetIdsOriginalToNew {
+  key: 5530565094536520016
+  value: 17899440359606891936
+}
+AssetIdsOriginalToNew {
+  key: 6287916291505565748
+  value: 13815955668414249445
+}
+AssetIdsOriginalToNew {
+  key: 6306043110484360137
+  value: 17391605480364334702
+}
+AssetIdsOriginalToNew {
+  key: 6313108240679676273
+  value: 16481813595209412068
+}
+AssetIdsOriginalToNew {
+  key: 8181815774379752291
+  value: 16877218676850723216
+}
+AssetIdsOriginalToNew {
+  key: 8198099963602817007
+  value: 8623038742210164119
+}
+AssetIdsOriginalToNew {
+  key: 9067563917115687360
+  value: 3657446450475794419
+}
+AssetIdsOriginalToNew {
+  key: 9472310713104222497
+  value: 10350459121871031345
+}
+AssetIdsOriginalToNew {
+  key: 10165181549985987675
+  value: 4326093726071992809
+}
+AssetIdsOriginalToNew {
+  key: 12074581745705398505
+  value: 17688855559627420154
+}
+AssetIdsOriginalToNew {
+  key: 14258503534776715183
+  value: 9950517760097194298
+}

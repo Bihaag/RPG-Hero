@@ -1,0 +1,40 @@
+--												-----------------------------------
+--												Simple NPC System Explanation Sheet
+--												-----------------------------------
+--	
+--						1.	Use of the NPC system
+--
+--						The NPC System can be used for crowding the public places in your game, for example parts
+--						of a city or in bigger indoor facilities. I'd recommended to not use the NPCs in narrow
+--						spaces as they tend to get stuck for a long time there. The NPCs are coded for also adjusting
+--						to terrain that is not completely even, but the best visual results are archieved with even terrain.
+--
+--						2.	Setup of the NPCs
+--						
+--						To begin with, place the template of a NPC ("NPC Man" or "NPC Woman") in your world. Place them with
+--						their shoes a little above the ground. In the properties of the NPC, you can customize the clothing of
+--						your NPC. If you scroll further down you will also have three options for the NPC:
+--
+--						- SocialNPC: 	Decide if the NPCs will talk to each other if they meet on their ways. You can also 
+--									 	customize the "NPCTrigger" size to fit the social range you want to archieve.
+--
+--						- EmotionalConversation:	Enable for more emotional animations while the NPCs talk. Has to be enabled
+--													for the talking sounds to be heard.
+--
+--						- TalkingSounds: 	Turn on/off the talking sounds during a meeting of two NPCs.
+--
+--						- MaximalWalkableFloorAngle:	Set the maximum floor angle the NPCs should be able to walk on from a
+--														range from 0 to 1. 0 is 0 degrees and 1 is 90 degrees. It is recommended
+--														to not set the floor angle too high to make the NPCs look more realistic.
+--
+--						To restrict the area where the NPCs can walk around, use edges on the floor that have a greater angle than
+--						what you set as the maximal walkable floor angle. The edges don't have to be very high, just about the height
+--						of the shoes of the NPC. If you can't integrate those edges in the world design, use the example barriers
+--						coming with this NPC system. To set them up, turn their visibility on in the properties, after you got them
+--						in the right place, turn it off again. If the NPCs ignore the barriers just increase their hight a little.
+--
+--						3. Further Information
+--
+--						This NPC system is not totally bug-free! If you spot an error or have a suggestion don't hesitate to tell 
+--						me on my discord: WorldBuilder273#8528
+--						

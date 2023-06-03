@@ -1,0 +1,59 @@
+MetaVersion: 1
+MarketplaceDetails {
+  Id: "255b56bd052e441086454ab8eb581426"
+  OwnerAccountId: "8c41671b109c4635b461706e8f977ca1"
+  OwnerName: "Alithor97"
+  Version: "1.0.0"
+}
+AssetIdsOriginalToNew {
+  key: 754906142123952684
+  value: 5895921780261524321
+}
+AssetIdsOriginalToNew {
+  key: 3380294401361899740
+  value: 2407150015399465884
+}
+AssetIdsOriginalToNew {
+  key: 5082628058110625875
+  value: 590812256534981936
+}
+AssetIdsOriginalToNew {
+  key: 5326807513955243310
+  value: 4899152640960490206
+}
+AssetIdsOriginalToNew {
+  key: 5331750970065196514
+  value: 11136778952600673628
+}
+AssetIdsOriginalToNew {
+  key: 6753921323086298841
+  value: 3399822521736114530
+}
+AssetIdsOriginalToNew {
+  key: 7303663615599487190
+  value: 1482708508408742343
+}
+AssetIdsOriginalToNew {
+  key: 8101865636747662361
+  value: 16867306417645733968
+}
+AssetIdsOriginalToNew {
+  key: 10594394784594169805
+  value: 13472420877498216798
+}
+AssetIdsOriginalToNew {
+  key: 10667516336049517597
+  value: 14690688391147554978
+}
+AssetIdsOriginalToNew {
+  key: 12900756198021329611
+  value: 4858944470151491897
+}
+AssetIdsOriginalToNew {
+  key: 13450149868792936907
+  value: 6101941732364870057
+}
+AssetIdsOriginalToNew {
+  key: 17800314628686226670
+  value: 13259047918339960533
+}

@@ -1,0 +1,95 @@
+MetaVersion: 1
+MarketplaceDetails {
+  Id: "24768b4af5f54c1485cfd16276796e81"
+  OwnerAccountId: "9ce4efefb4c143e880d388c4d398e54a"
+  OwnerName: "randomphantom"
+  Version: "1.0.0"
+}
+AssetIdsOriginalToNew {
+  key: 635947665660025098
+  value: 15030558100101059127
+}
+AssetIdsOriginalToNew {
+  key: 1427829216143793458
+  value: 1115648501605334886
+}
+AssetIdsOriginalToNew {
+  key: 3194930412626622494
+  value: 17311382368817895510
+}
+AssetIdsOriginalToNew {
+  key: 5137802864982390995
+  value: 2878012232800725845
+}
+AssetIdsOriginalToNew {
+  key: 6337634433943339427
+  value: 11492348811762712009
+}
+AssetIdsOriginalToNew {
+  key: 6893986948569522536
+  value: 15578572664093738706
+}
+AssetIdsOriginalToNew {
+  key: 7445855579671141283
+  value: 3304666051229152749
+}
+AssetIdsOriginalToNew {
+  key: 8799101599018051692
+  value: 5528297225888685704
+}
+AssetIdsOriginalToNew {
+  key: 8904252288490769999
+  value: 5238122456231765665
+}
+AssetIdsOriginalToNew {
+  key: 9748598691135565465
+  value: 1094753690538086371
+}
+AssetIdsOriginalToNew {
+  key: 9770511928359673738
+  value: 17031994916587238080
+}
+AssetIdsOriginalToNew {
+  key: 10109220941690346490
+  value: 12803467983890713774
+}
+AssetIdsOriginalToNew {
+  key: 10251728999306098252
+  value: 5835658795985421195
+}
+AssetIdsOriginalToNew {
+  key: 11389909126487387435
+  value: 16316128964210628094
+}
+AssetIdsOriginalToNew {
+  key: 12439034694186114331
+  value: 2509704709516605666
+}
+AssetIdsOriginalToNew {
+  key: 13807498153521726515
+  value: 11559874897891779274
+}
+AssetIdsOriginalToNew {
+  key: 14373757464648078715
+  value: 10026739108589627615
+}
+AssetIdsOriginalToNew {
+  key: 16980271058103484913
+  value: 13110424547917037668
+}
+AssetIdsOriginalToNew {
+  key: 17134926086803901810
+  value: 18085988779065226917
+}
+AssetIdsOriginalToNew {
+  key: 17595504916760055462
+  value: 4443349220399254926
+}
+AssetIdsOriginalToNew {
+  key: 18009722745170410223
+  value: 672423953851774737
+}
+AssetIdsOriginalToNew {
+  key: 18241511406530328432
+  value: 5387470737459821471
+}
