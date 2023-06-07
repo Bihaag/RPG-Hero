@@ -110,3 +110,4 @@ function GetLootTemplate(lootId)
 end
 
 
+

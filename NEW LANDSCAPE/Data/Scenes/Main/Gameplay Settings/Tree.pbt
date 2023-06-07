@@ -180,7 +180,7 @@ Objects {
       WalkSpeed: 640
       MaxAcceleration: 1800
       WalkableFloorAngle: 44
-      JumpMaxCount: 1
+      JumpMaxCount: 3
       JumpVelocity: 900
       GroundFriction: 8
       GravityScale: 1.9
@@ -304,6 +304,7 @@ Objects {
     IsDefault: true
     GameSettings {
       RagdollOnDeath: true
+      EnablePlayerStorage: true
       ChatMode {
         Value: "mc:echatmode:teamandall"
       }

@@ -1,0 +1,95 @@
+MetaVersion: 1
+MarketplaceDetails {
+  Id: "b6c319ce2f8a4c81b53530fb0698f6a3"
+  OwnerAccountId: "98451989bc5a4a04ab3046bb57c3bda3"
+  OwnerName: "XRStudio"
+  Version: "1.0.0"
+}
+AssetIdsOriginalToNew {
+  key: 162151367198570398
+  value: 6259740294920701590
+}
+AssetIdsOriginalToNew {
+  key: 1116760160694603255
+  value: 15904007254387786288
+}
+AssetIdsOriginalToNew {
+  key: 1328464424770808511
+  value: 4523270167412437143
+}
+AssetIdsOriginalToNew {
+  key: 1883778736238546551
+  value: 10327648921883296378
+}
+AssetIdsOriginalToNew {
+  key: 2003752736780784297
+  value: 8344872988213783234
+}
+AssetIdsOriginalToNew {
+  key: 2038077216541919415
+  value: 6255109767955079800
+}
+AssetIdsOriginalToNew {
+  key: 5927220524009298293
+  value: 817536483108364735
+}
+AssetIdsOriginalToNew {
+  key: 6875009610134579617
+  value: 602404428380563519
+}
+AssetIdsOriginalToNew {
+  key: 7502134511358725775
+  value: 9076849511786570268
+}
+AssetIdsOriginalToNew {
+  key: 7577485333701035703
+  value: 7468792144185319432
+}
+AssetIdsOriginalToNew {
+  key: 8678518303339898065
+  value: 11683145166387048496
+}
+AssetIdsOriginalToNew {
+  key: 8849773590821764357
+  value: 17118735659882836003
+}
+AssetIdsOriginalToNew {
+  key: 9770511928359673738
+  value: 423909694337995085
+}
+AssetIdsOriginalToNew {
+  key: 10862837515260375752
+  value: 17829796513150936408
+}
+AssetIdsOriginalToNew {
+  key: 11271269196469755384
+  value: 1390772887198354052
+}
+AssetIdsOriginalToNew {
+  key: 13645484765276120961
+  value: 10262832499466284512
+}
+AssetIdsOriginalToNew {
+  key: 14363941363690452509
+  value: 14866465620885848316
+}
+AssetIdsOriginalToNew {
+  key: 14373757464648078715
+  value: 5516598403306016805
+}
+AssetIdsOriginalToNew {
+  key: 15345760362089961606
+  value: 14010141747719199234
+}
+AssetIdsOriginalToNew {
+  key: 15636749404113921442
+  value: 3625416182304896540
+}
+AssetIdsOriginalToNew {
+  key: 17367449922255341506
+  value: 11705685783566894171
+}
+AssetIdsOriginalToNew {
+  key: 17876034834621974685
+  value: 5421451974442101709
+}

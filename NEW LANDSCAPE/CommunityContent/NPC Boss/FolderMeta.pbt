@@ -1,0 +1,91 @@
+MetaVersion: 1
+MarketplaceDetails {
+  Id: "b19a0d0e38a34869a13928cda78ee1b9"
+  OwnerAccountId: "bdf24af6e0004e20a2c4c6578da0ea25"
+  OwnerName: "Athylian"
+  Version: "1.0.0"
+}
+AssetIdsOriginalToNew {
+  key: 162151367198570398
+  value: 13360358642996153476
+}
+AssetIdsOriginalToNew {
+  key: 1116760160694603255
+  value: 7764623532115572415
+}
+AssetIdsOriginalToNew {
+  key: 1883778736238546551
+  value: 2195888058451394437
+}
+AssetIdsOriginalToNew {
+  key: 2003752736780784297
+  value: 2777313127122806744
+}
+AssetIdsOriginalToNew {
+  key: 2038077216541919415
+  value: 5619259409430682546
+}
+AssetIdsOriginalToNew {
+  key: 2572089984808838998
+  value: 3331103112925763634
+}
+AssetIdsOriginalToNew {
+  key: 3811240335831509767
+  value: 17173472523093451073
+}
+AssetIdsOriginalToNew {
+  key: 4966147186312246530
+  value: 16003456921217412381
+}
+AssetIdsOriginalToNew {
+  key: 5927220524009298293
+  value: 11976721881278962916
+}
+AssetIdsOriginalToNew {
+  key: 7577485333701035703
+  value: 7291547297340232818
+}
+AssetIdsOriginalToNew {
+  key: 9770511928359673738
+  value: 1126676237945799749
+}
+AssetIdsOriginalToNew {
+  key: 10862837515260375752
+  value: 5171847791504039978
+}
+AssetIdsOriginalToNew {
+  key: 11271269196469755384
+  value: 7397007088168270644
+}
+AssetIdsOriginalToNew {
+  key: 13645484765276120961
+  value: 15871176099097841491
+}
+AssetIdsOriginalToNew {
+  key: 14363941363690452509
+  value: 6683134340472652383
+}
+AssetIdsOriginalToNew {
+  key: 14373757464648078715
+  value: 5857129708146363393
+}
+AssetIdsOriginalToNew {
+  key: 15345760362089961606
+  value: 11593641406703517490
+}
+AssetIdsOriginalToNew {
+  key: 15636749404113921442
+  value: 14001711979645625826
+}
+AssetIdsOriginalToNew {
+  key: 17367449922255341506
+  value: 7867111410550627361
+}
+AssetIdsOriginalToNew {
+  key: 17758478719015807041
+  value: 1861761193967012744
+}
+AssetIdsOriginalToNew {
+  key: 17876034834621974685
+  value: 14108345616744335524
+}

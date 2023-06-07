@@ -1,0 +1,66 @@
+Assets {
+  Id: 808965773120596018
+  Name: "Variety of damageable objects"
+  PlatformAssetType: 5
+  TemplateAsset {
+    ObjectBlock {
+      RootId: 2317532716008894618
+      Objects {
+        Id: 2317532716008894618
+        Name: "TemplateBundleDummy"
+        Transform {
+          Location {
+          }
+          Rotation {
+          }
+          Scale {
+            X: 1
+            Y: 1
+            Z: 1
+          }
+        }
+        Folder {
+          BundleDummy {
+            ReferencedAssets {
+              Id: 4486258521994148900
+            }
+            ReferencedAssets {
+              Id: 16212797157291263336
+            }
+            ReferencedAssets {
+              Id: 14256348984552812609
+            }
+            ReferencedAssets {
+              Id: 6910187084730596820
+            }
+            ReferencedAssets {
+              Id: 5848107469727839557
+            }
+            ReferencedAssets {
+              Id: 1804030914439219746
+            }
+            ReferencedAssets {
+              Id: 5491951745763190129
+            }
+          }
+        }
+        NetworkRelevanceDistance {
+          Value: "mc:eproxyrelevance:critical"
+        }
+        IsReplicationEnabledByDefault: true
+      }
+    }
+    PrimaryAssetId {
+      AssetType: "None"
+      AssetId: "None"
+    }
+  }
+  Marketplace {
+    Id: "4f5c000cabd7406ebd1ce02c5d82bbb8"
+    OwnerAccountId: "34552f60de54453aa417ae90595508ac"
+    OwnerName: "Techniqueue"
+    Version: "1.1.0"
+    Description: "Fuel station props\r\nSci-Fi props\r\nAll Core Windows with breakeable glass\r\nVariety of damageable props\r\nSimple fuel station\r\nCore props damageable"
+  }
+  SerializationVersion: 125
+}

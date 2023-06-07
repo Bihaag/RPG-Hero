@@ -1,0 +1,95 @@
+MetaVersion: 1
+MarketplaceDetails {
+  Id: "b6c319ce2f8a4c81b53530fb0698f6a3"
+  OwnerAccountId: "98451989bc5a4a04ab3046bb57c3bda3"
+  OwnerName: "XRStudio"
+  Version: "1.0.0"
+}
+AssetIdsOriginalToNew {
+  key: 162151367198570398
+  value: 3865448004603864901
+}
+AssetIdsOriginalToNew {
+  key: 1116760160694603255
+  value: 9420452035696437248
+}
+AssetIdsOriginalToNew {
+  key: 1328464424770808511
+  value: 5400943556873092634
+}
+AssetIdsOriginalToNew {
+  key: 1883778736238546551
+  value: 335075324337430525
+}
+AssetIdsOriginalToNew {
+  key: 2003752736780784297
+  value: 10099422259641182592
+}
+AssetIdsOriginalToNew {
+  key: 2038077216541919415
+  value: 517144593531201618
+}
+AssetIdsOriginalToNew {
+  key: 5927220524009298293
+  value: 9036863404316557906
+}
+AssetIdsOriginalToNew {
+  key: 6875009610134579617
+  value: 751211650116099610
+}
+AssetIdsOriginalToNew {
+  key: 7502134511358725775
+  value: 15050837263924876035
+}
+AssetIdsOriginalToNew {
+  key: 7577485333701035703
+  value: 9265527062604188625
+}
+AssetIdsOriginalToNew {
+  key: 8678518303339898065
+  value: 11113191059096695088
+}
+AssetIdsOriginalToNew {
+  key: 8849773590821764357
+  value: 2282959920041959654
+}
+AssetIdsOriginalToNew {
+  key: 9770511928359673738
+  value: 4617219930495033239
+}
+AssetIdsOriginalToNew {
+  key: 10862837515260375752
+  value: 2819787007310316345
+}
+AssetIdsOriginalToNew {
+  key: 11271269196469755384
+  value: 17921420950695504994
+}
+AssetIdsOriginalToNew {
+  key: 13645484765276120961
+  value: 2536119588022088007
+}
+AssetIdsOriginalToNew {
+  key: 14363941363690452509
+  value: 5781237812631653544
+}
+AssetIdsOriginalToNew {
+  key: 14373757464648078715
+  value: 17655057122984071096
+}
+AssetIdsOriginalToNew {
+  key: 15345760362089961606
+  value: 15123891918479698853
+}
+AssetIdsOriginalToNew {
+  key: 15636749404113921442
+  value: 8099635166465006419
+}
+AssetIdsOriginalToNew {
+  key: 17367449922255341506
+  value: 4192377312022453973
+}
+AssetIdsOriginalToNew {
+  key: 17876034834621974685
+  value: 12910504420634251087
+}

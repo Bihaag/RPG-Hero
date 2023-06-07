@@ -55,5 +55,39 @@ Assets {
       VirtualFolderPath: "Dependecies"
       PlatformAssetType: 5
     }
+    Folders {
+      VirtualFolderPath: "Weapons"
+      PlatformAssetType: 3
+    }
+    Folders {
+      VirtualFolderPath: "Weapons"
+      VirtualFolderPath: "Dependecies"
+      PlatformAssetType: 5
+    }
+    Folders {
+      VirtualFolderPath: "NPC"
+      PlatformAssetType: 3
+    }
+    Folders {
+      VirtualFolderPath: "Costumes"
+      PlatformAssetType: 5
+    }
+    Folders {
+      VirtualFolderPath: "NPC"
+      PlatformAssetType: 5
+    }
+    Folders {
+      VirtualFolderPath: "NPC"
+      VirtualFolderPath: "Dependencies"
+      PlatformAssetType: 5
+    }
+    Folders {
+      VirtualFolderPath: "Hierarchy"
+      PlatformAssetType: 5
+    }
+    Folders {
+      VirtualFolderPath: "NPC Kit"
+      PlatformAssetType: 3
+    }
   }
 }

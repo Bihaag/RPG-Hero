@@ -1,0 +1,47 @@
+MetaVersion: 1
+MarketplaceDetails {
+  Id: "c4e9b92a524942d0ad5130edf8869770"
+  OwnerAccountId: "155f828b3d104e2b86593ee892099427"
+  OwnerName: "CapnFrap"
+  Version: "1.0.0"
+}
+AssetIdsOriginalToNew {
+  key: 893375075153135712
+  value: 18445449908011305015
+}
+AssetIdsOriginalToNew {
+  key: 6209386621749240496
+  value: 13818334683855293745
+}
+AssetIdsOriginalToNew {
+  key: 7717409398218122208
+  value: 2480205225961675340
+}
+AssetIdsOriginalToNew {
+  key: 10636318761576201178
+  value: 13973928276516798675
+}
+AssetIdsOriginalToNew {
+  key: 12276437941037165009
+  value: 16518443611583003199
+}
+AssetIdsOriginalToNew {
+  key: 13181048066956972136
+  value: 15448339547780919161
+}
+AssetIdsOriginalToNew {
+  key: 16563624706626059188
+  value: 12890812357377818706
+}
+AssetIdsOriginalToNew {
+  key: 16871158411980526592
+  value: 6144281198247249256
+}
+AssetIdsOriginalToNew {
+  key: 17033517942992721064
+  value: 10825902425254474803
+}
+AssetIdsOriginalToNew {
+  key: 17188930418738537651
+  value: 5445663129850464880
+}
